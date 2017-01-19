@@ -4,8 +4,6 @@ Question Answering Module
 QA Module (QAM) is divided in two major parts -
 - Speech / Textual
 - Visual
-----------
-
 
 Visual
 -------------
