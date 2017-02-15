@@ -5,7 +5,7 @@ End to End memory networks
 
 For understanding [Theano](http://deeplearning.net/software/theano/) and [Lasagne](https://lasagne.readthedocs.io), follow the documentation. Most of the code is forked from ```github.com/npow/memN2N``` and I have not written the entire code, though I fully understand it. 
 
-The network built is a [closed QA](https://cs224d.stanford.edu/reports/StrohMathur.pdf) system and the data that we are feeding is of [babi](fb.com/babi) facebook task.  
+The network built is a [closed QA](https://cs224d.stanford.edu/reports/StrohMathur.pdf) system and the data that we are feeding is of [babi](www.fb.com/babi) facebook task.  
 
 
 Next Challenges
